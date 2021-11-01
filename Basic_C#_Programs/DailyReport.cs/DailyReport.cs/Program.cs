@@ -10,35 +10,36 @@ namespace DailyReport.cs
     {
         static void Main(string[] args)
         {
+            //intro
             Console.WriteLine("The Tech Academy \n");
             Console.ReadLine();
 
+            //prompt user for input
             Console.WriteLine("What's your name?");
             string name = Console.ReadLine();
 
-            Console.WriteLine("What course are you in?");
+            Console.WriteLine("\nWhat course are you in?");
             string course = Console.ReadLine();
 
-            Console.WriteLine("What page number?");
+            Console.WriteLine("\nWhat page number?");
             string num = Console.ReadLine();
 
         
            
-            Console.WriteLine("Do you need any help with anything? Please answer 'true' or 'false");
-            bool answer = true;
-            bool answer2 = false;
-            string truce = Convert.ToString(answer);
-            string no = Convert.ToString(answer2);
-            string truce = Console.ReadLine(); 
+            Console.WriteLine("\nDo you need any help with anything? Please answer 'true' or 'false");
+            //boolean conversion for input
+            bool answer = Convert.ToBoolean(Console.ReadLine());
+
+             
             
             
-            Console.WriteLine("Were there any positive experiences you'd like to share? Please give specifics \n");
+            Console.WriteLine("\nWere there any positive experiences you'd like to share? Please give specifics \n");
             string pare = Console.ReadLine();
 
             Console.WriteLine("Is there any more feedback you'd like to provide? \n");
             string comment = Console.ReadLine();
 
-
+            //program end
             Console.WriteLine("Thank you for all your answers! An instructor will answer these shortly. Thank you!");
             Console.ReadLine();
 
