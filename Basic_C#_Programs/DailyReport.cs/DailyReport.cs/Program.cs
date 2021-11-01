@@ -22,7 +22,7 @@ namespace DailyReport.cs
             string course = Console.ReadLine();
 
             Console.WriteLine("\nWhat page number?");
-            string num = Console.ReadLine();
+            int num = Convert.ToInt32(Console.ReadLine());
 
         
            
@@ -36,7 +36,7 @@ namespace DailyReport.cs
             Console.WriteLine("\nWere there any positive experiences you'd like to share? Please give specifics \n");
             string pare = Console.ReadLine();
 
-            Console.WriteLine("Is there any more feedback you'd like to provide? \n");
+            Console.WriteLine("\nIs there any more feedback you'd like to provide? \n");
             string comment = Console.ReadLine();
 
             //program end
