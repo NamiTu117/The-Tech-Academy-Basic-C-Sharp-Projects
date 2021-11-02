@@ -1,0 +1,7 @@
+E:\GitHubs\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathApplicationAssignment.cs\MathApplicationAssignment.cs\bin\Debug\MathApplicationAssignment.cs.exe.config
+E:\GitHubs\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathApplicationAssignment.cs\MathApplicationAssignment.cs\bin\Debug\MathApplicationAssignment.cs.exe
+E:\GitHubs\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathApplicationAssignment.cs\MathApplicationAssignment.cs\bin\Debug\MathApplicationAssignment.cs.pdb
+E:\GitHubs\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathApplicationAssignment.cs\MathApplicationAssignment.cs\obj\Debug\MathApplicationAssignment.cs.csproj.AssemblyReference.cache
+E:\GitHubs\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathApplicationAssignment.cs\MathApplicationAssignment.cs\obj\Debug\MathApplicationAssignment.cs.csproj.CoreCompileInputs.cache
+E:\GitHubs\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathApplicationAssignment.cs\MathApplicationAssignment.cs\obj\Debug\MathApplicationAssignment.cs.exe
+E:\GitHubs\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathApplicationAssignment.cs\MathApplicationAssignment.cs\obj\Debug\MathApplicationAssignment.cs.pdb

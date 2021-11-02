@@ -1,0 +1,7 @@
+E:\GitHubs\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathandComparison.cs\MathandComparison.cs\bin\Debug\MathandComparison.cs.exe.config
+E:\GitHubs\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathandComparison.cs\MathandComparison.cs\bin\Debug\MathandComparison.cs.exe
+E:\GitHubs\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathandComparison.cs\MathandComparison.cs\bin\Debug\MathandComparison.cs.pdb
+E:\GitHubs\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathandComparison.cs\MathandComparison.cs\obj\Debug\MathandComparison.cs.csproj.AssemblyReference.cache
+E:\GitHubs\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathandComparison.cs\MathandComparison.cs\obj\Debug\MathandComparison.cs.csproj.CoreCompileInputs.cache
+E:\GitHubs\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathandComparison.cs\MathandComparison.cs\obj\Debug\MathandComparison.cs.exe
+E:\GitHubs\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathandComparison.cs\MathandComparison.cs\obj\Debug\MathandComparison.cs.pdb
