@@ -1,0 +1,7 @@
+E:\GitHubs\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PayrateAssignment.cs\PayrateAssignment.cs\bin\Debug\PayrateAssignment.cs.exe.config
+E:\GitHubs\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PayrateAssignment.cs\PayrateAssignment.cs\bin\Debug\PayrateAssignment.cs.exe
+E:\GitHubs\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PayrateAssignment.cs\PayrateAssignment.cs\bin\Debug\PayrateAssignment.cs.pdb
+E:\GitHubs\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PayrateAssignment.cs\PayrateAssignment.cs\obj\Debug\PayrateAssignment.cs.csproj.AssemblyReference.cache
+E:\GitHubs\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PayrateAssignment.cs\PayrateAssignment.cs\obj\Debug\PayrateAssignment.cs.csproj.CoreCompileInputs.cache
+E:\GitHubs\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PayrateAssignment.cs\PayrateAssignment.cs\obj\Debug\PayrateAssignment.cs.exe
+E:\GitHubs\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PayrateAssignment.cs\PayrateAssignment.cs\obj\Debug\PayrateAssignment.cs.pdb
