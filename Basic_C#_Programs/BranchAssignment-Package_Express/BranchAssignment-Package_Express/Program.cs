@@ -38,8 +38,8 @@ namespace BranchAssignment_Package_Express
                 int length = Convert.ToInt32(Console.ReadLine());
                 Console.ReadLine();
 
-             
-                if (width > 50 && height > 50 && length > 50)
+                int dimension = width +  height + length; 
+                if ( dimension > 50)
                 {
                     Console.WriteLine("Package too big to be shipped via Package Express.");
                     Console.ReadLine(); 
