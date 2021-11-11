@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace MainMethodAssignment
+{
+    class Math2
+    {
+        public static int Multiplication (int y)
+        {
+            int x = y * 9;
+            return x; 
+        }
+    }
+}
