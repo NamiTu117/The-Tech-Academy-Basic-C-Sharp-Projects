@@ -10,13 +10,27 @@ namespace MainMethodAssignment
     {
         static void Main(string[] args)
         {
-            int choice = 8;    
-            Math2.Multiplication(choice);
+            //instantiating class
+            Math2 math2 = new Math2(); 
 
-           
-            //Math2 math2 = new Math2();
+            //displaying results 
+            int choice = 8;            
+            int product = math2.Multiplication(choice);
+            Console.WriteLine(product);
 
-            //return new Math2().Multiplication(int y); 
+            //returning decimal as integer
+            decimal choice2 = 60m;
+            int result = math2.Multiplication(choice2);
+            Console.WriteLine(result);
+
+            //returning string as integer
+            string choice3 = "9"; 
+            int results = math2.Multiplication(choice3);
+            Console.WriteLine(results);
+            
+            
+
+
             Console.ReadLine();
         }
 
