@@ -15,7 +15,7 @@ namespace AbstractClassAssignment
             Console.WriteLine(firstName + " " + lastName);
         }
 
-        public void Quit()
+        public void Quit(Employee employee)
         {
             Console.WriteLine("I'm putting in my two weeks notice");
         }
