@@ -14,12 +14,14 @@ namespace AbstractClassAssignment
             employee.firstName = "Sample";
             employee.lastName = "Student";
             employee.SayName();
+
+
             
-
-            //iquittable object
-            employee.Quit(employee);
-            Console.ReadLine();
-
+            //iquittable object 
+            IQuittable iquittable = new Employee();
+            iquittable.Quit(employee); 
         }
+
+        
     }
 }

@@ -10,4 +10,6 @@ namespace AbstractClassAssignment
     {
          void Quit(Employee employee);
     }
+
+    
 }
