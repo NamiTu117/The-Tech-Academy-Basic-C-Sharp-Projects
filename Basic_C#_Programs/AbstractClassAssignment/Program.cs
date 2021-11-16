@@ -15,7 +15,9 @@ namespace AbstractClassAssignment
             employee.lastName = "Student";
             employee.SayName();
             Console.ReadLine();
-            
+
+            //iquittable object
+            employee.Quit();
 
         }
     }
