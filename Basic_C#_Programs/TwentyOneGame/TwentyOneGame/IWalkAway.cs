@@ -8,7 +8,7 @@ namespace TwentyOneGame
 {
     interface IWalkAway
     {
-        //defining a void method 
-        void WalkAway(Player player); 
+    //    //defining a void method 
+       void WalkAway(Player player); 
     }
 }
