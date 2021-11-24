@@ -19,10 +19,12 @@ namespace TwentyOneGame
             Hand.Add(Deck.Cards.First());
             string card = string.Format(Deck.Cards.First().ToString() + "\n");
             Console.WriteLine(card);
-            //using (StreamWriter file = new StreamWriter(@"E:\GitHubs\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs", true))
-            //{
-            //    file.WriteLine(card);
-            //}
+            using (StreamWriter file = new StreamWriter(@"E:\GitHubs\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\log.txt", true))
+            {
+                //logging date and time 
+                file.WriteLine(DateTime.Now);
+                file.WriteLine(card);
+            }
 
             Deck.Cards.RemoveAt(0);
         }

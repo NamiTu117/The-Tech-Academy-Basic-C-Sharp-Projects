@@ -11,8 +11,18 @@ namespace TwentyOneGame
     {
         static void Main(string[] args)
         {
-            //string text = "Here is some text.";
+
+            //File
+            //string text = "Here is some text.";         
             //File.ReadAllText(@"E:\GitHubs\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\log.txt");
+
+            //Datetime year, month, day, hour, minute, second 
+           // DateTime yearofBirth = new DateTime(1998, 2, 27, 1, 35, 00);
+
+           // DateTime yearofGraduation = new DateTime(2016, 5, 16, 6, 00, 00);
+            //TimeSpan ageatGraduation = yearofGraduation - yearofBirth;
+
+
             //Welcome Screen 
             Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by telling me your name ");
             string playerName = Console.ReadLine();
