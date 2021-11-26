@@ -4,14 +4,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
+using Casino;
+using Casino.TwentyOne;
 
-namespace TwentyOneGame
+
+
+namespace TwentyOne
 {
     class Program
     {
         static void Main(string[] args)
         {
+            const string casinoName = "Grand Hotel and Casino";
 
+            Guid identifier = new Guid();
             //File
             //string text = "Here is some text.";         
             //File.ReadAllText(@"E:\GitHubs\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\log.txt");
@@ -37,6 +43,12 @@ namespace TwentyOneGame
             if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
             {
                 Player player = new Player(playerName , bank);
+                player.Id = Guid.NewQuid();
+                using (StreamWriter file = new StreamWriter)
+                {
+                    file.WriteLine(DateTime.Now);
+                    file.WriteLine(card);
+                }
                 Game game = new TwentyOneGame();
                 game += player;
                 player.isActivelyPlaying = true;
@@ -55,8 +67,10 @@ namespace TwentyOneGame
         
         }
 
-        
-
+        private static object Player(string v)
+        {
+            throw new NotImplementedException();
+        }
     }
         
     
