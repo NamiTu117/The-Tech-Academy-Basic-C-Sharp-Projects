@@ -9,4 +9,4 @@ This project is an MVC web application designed to mimic a car insurance website
 
 Twenty-One Game
 
-A simple game of Twenty One 
+A simple card game of Black Jack. 
