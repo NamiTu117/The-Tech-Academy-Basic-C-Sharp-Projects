@@ -1,0 +1,13 @@
+M:\GitHubs\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+M:\GitHubs\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+M:\GitHubs\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+M:\GitHubs\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleApp1\ConsoleApp1\bin\Debug\EntityFramework.dll
+M:\GitHubs\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleApp1\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.dll
+M:\GitHubs\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleApp1\ConsoleApp1\bin\Debug\EntityFramework.xml
+M:\GitHubs\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleApp1\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.xml
+M:\GitHubs\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+M:\GitHubs\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+M:\GitHubs\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+M:\GitHubs\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+M:\GitHubs\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+M:\GitHubs\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
